@@ -3741,10 +3741,10 @@
   resolved "https://registry.npmjs.org/@uniswap/conedison/-/conedison-1.8.0.tgz"
   integrity sha512-EeC37bbrd4sJnqW3TxNhExdWUBvzyJDhbTXcbDzFdBh/bg5sOCu1NbYJEnrjwBHEfewc9nF2OjEzejJFyJUx9A==
 
-"@uniswap/default-token-list@^11.2.0", "@uniswap/default-token-list@^11.6.0":
-  version "11.6.0"
-  resolved "https://registry.npmjs.org/@uniswap/default-token-list/-/default-token-list-11.6.0.tgz"
-  integrity sha512-4OS+sStju/pOp6w96RL275XDB3VrIiOBqPvqFHVAKP3mMtueYMRjpHEj+BhCi3l0bUmhllz6SyGt1OxD4IMeDQ==
+"@uniswap/default-token-list@^11.16.0", "@uniswap/default-token-list@^11.2.0":
+  version "11.16.0"
+  resolved "https://registry.yarnpkg.com/@uniswap/default-token-list/-/default-token-list-11.16.0.tgz#f351305ed6bf62c9a6dcaa860627bbfa72ed60bd"
+  integrity sha512-J259QBQOLKyU1zG6n2aHVjOANYuMu15G+pA8IkScpjFci27tVIbLIre5vqpLnBxauimeGn+MN5Wm97q1pbEbGg==
 
 "@uniswap/lib@^4.0.1-alpha":
   version "4.0.1-alpha"
